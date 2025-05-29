@@ -134,6 +134,7 @@ Saber por cuánto tiempo une niñe puede ser entretenido por un juguete. Lo cual
         
  - Para une niñe revoltose, el tiempo es la mitad de la eficacia del juguete, sin importar la edad.
         `Tiempo =  (eficaciaJuguete *  (1 + (edadNiño / 100))) / 2`
+     
      Por ejemplo, para Milena que es una niña revoltosa de 15 meses el tiempo de la pelota la entretiene por
      ` (12 * (1 + 15/100)) /2 1.5 = 6.9` 
  
